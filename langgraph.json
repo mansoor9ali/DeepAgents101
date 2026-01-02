@@ -1,0 +1,7 @@
+{
+    "dependencies": ["."],
+    "graphs": {
+        "Resume-Analyst-Agent": "./Resume-Analyst-Agent.py:agent"
+    }
+}
+
